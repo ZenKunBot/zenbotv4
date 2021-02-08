@@ -46,7 +46,7 @@ Example:
 - Change ```ownerName``` with your Name
 Example:
 ```bash
-"ownerName": "Nazwa",
+"ownerName": "Zen",
 ```
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
